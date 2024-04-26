@@ -23,8 +23,9 @@ Exploring factors influencing employee outcomes (e.g., job satisfaction, turnove
 Applying regression or clustering methods to uncover actionable insights and inform HR strategies.
 Machine Learning Models:
 
-Supervised Learning: Implemented classification models to predict diabetes outcomes or analyze HR-related factors.
-Unsupervised Learning: Potentially utilized for clustering analysis in HR data to identify distinct employee groups or patterns.
+
 Data Visualization: Employed to present analytical findings effectively and facilitate informed decision-making.
+
 Python Libraries: Leveraged Python's versatile ecosystem, including NumPy for numerical operations, Pandas for data manipulation, and Scikit-learn for machine learning implementations.
+
 These internship projects provided invaluable hands-on experience in applying data science techniques to real-world scenarios, fostering the development of analytical and problem-solving skills within a professional environment.
