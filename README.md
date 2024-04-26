@@ -10,6 +10,7 @@ Preprocessing and refining diabetes-related datasets to prepare them for analysi
 Conducting exploratory data analysis (EDA) to uncover patterns and relationships.
 Developing and assessing machine learning models for predicting diabetes outcomes.
 Applying classification algorithms (e.g., Logistic Regression, Random Forest) to forecast diabetes occurrences based on patient data.
+
 HR Analysis:
 Objective: Utilizing data analytics to gain insights into human resources dynamics and optimize HR strategies.
 Tools and Libraries Utilized:
