@@ -30,9 +30,6 @@ Libraries: Leveraged Pandas for data manipulation, Matplotlib and Seaborn for vi
 Tasks Undertaken:
 Cleaning and preprocessing HR datasets to ensure data quality and consistency.
 Visualizing relationships and trends within HR data (e.g., correlation analysis, trend identification).
-Exploring factors influencing employee outcomes (e.g., job satisfaction, turnover) using machine learning techniques.
-Applying regression or clustering methods to uncover actionable insights and inform HR strategies.
-
 
 Data Visualization: Employed to present analytical findings effectively and facilitate informed decision-making.
 
